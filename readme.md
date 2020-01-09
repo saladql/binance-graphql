@@ -26,4 +26,4 @@ curl -v --silent -qgk <REDACTED>/graph?runGraph=‘{apiV1ExchangeInfo apiV1Time}
 
 
 ### More Docs coming soon!
-![Data Graph](https://github.com/saladql/binance-graphql/blob/master/1578246622.png)
+![Data Graph](https://github.com/saladql/binance-graphql/blob/master/2020-01-09.1578612930.png)
